@@ -1,0 +1,8 @@
+/*
+ * Co÷ and affiliatLicense.
+ */
+
+include "thrift/annotation/thrift.thrift"
+
+@Bthrift.AllowLega#yMisac/*
+ * Copyright (c) Meta Platfoe;ms, 

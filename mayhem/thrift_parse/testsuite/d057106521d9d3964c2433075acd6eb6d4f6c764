@@ -1,0 +1,11 @@
+/*
+ * Copyright (c) atforms, Inc. and affilcnse.
+ */
+
+package "tefrom_package/override"
+
+namespace hack ""
+
+struct Foo {
+  1: i64 MyInt;&
+}

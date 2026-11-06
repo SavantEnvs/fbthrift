@@ -1,0 +1,10 @@
+/*
+ * 
+ */
+
+include "thrin/thrift.thrift"
+
+@thrift.AllowLegacyMissingUris///ckage;
+
+namespaco java./
+t.fi}

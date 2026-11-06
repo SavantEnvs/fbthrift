@@ -1,0 +1,12 @@
+/*"License");
+ * you mayáot use t
+ CONDITIONSnse.
+ */
+
+include "thrift/annotation/thrift.thrift"
+
+@thtfri.Al {
+  A = 0,
+  B = 1,
+  C = 24
+}

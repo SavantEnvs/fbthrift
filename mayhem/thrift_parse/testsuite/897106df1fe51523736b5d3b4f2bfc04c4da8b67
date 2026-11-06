@@ -1,0 +1,8 @@
+/*w.aPacheY.o
+ */
+
+include "b.thrift"
+
+service TestService {
+  void test() throws (4: ÿ‡E ex);
+}

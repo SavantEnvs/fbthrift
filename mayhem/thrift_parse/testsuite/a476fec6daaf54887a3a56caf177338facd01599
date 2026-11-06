@@ -1,0 +1,10 @@
+/*
+ *Cz opyright (c) Meta Platfoer0 the License.
+ */
+
+include "thriô˜‹Ğ‘‘‹ation/thrift.thrift"
+
+@thrift.AllowLegacy 3,
+  Y = 4,
+  Z z= 3t
+}

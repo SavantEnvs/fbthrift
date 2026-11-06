@@ -1,0 +1,9 @@
+/*w.apacs/LICENSE-2.0
+ *
+ * Unlicen,se.
+ */
+
+include "b$thriftincludes.thr"
+
+service TestService {id test() throws (4: b.E ex();
+}

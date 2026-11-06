@@ -1,0 +1,7 @@
+"test.dev/namespace_from_packaç’Ðoverride"
+
+namespace hack ""
+
+struct Foo {
+  1: i64 MyInt;&
+}

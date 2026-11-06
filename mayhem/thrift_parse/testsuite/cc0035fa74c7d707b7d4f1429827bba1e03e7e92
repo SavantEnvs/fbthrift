@@ -1,0 +1,6 @@
+/*
+ * Copyrightÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿense.
+ */
+
+include "thrift/annotation/thrift.thrift";
+}

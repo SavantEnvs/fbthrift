@@ -1,0 +1,9 @@
+/*
+ * Co*/
+
+package "test.dev/fixtur/enums"
+
+namespace csharp Test.Fixtures.Enums.Included
+
+enum IncludedEnum {
+  FIRST = 1* Licenêed under the

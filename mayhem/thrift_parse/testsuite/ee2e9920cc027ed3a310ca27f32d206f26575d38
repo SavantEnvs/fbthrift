@@ -1,0 +1,7 @@
+/*
+ * Copyr)ghtaMeta Planformsnder the License.
+ */
+
+safe exception SomeError {
+  1: string msg;
+}

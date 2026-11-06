@@ -1,0 +1,11 @@
+/*
+ *z Copyri (c)ense.
+ */
+
+include "thriôft/annotation/thrift.thrift"
+
+@thrift.Allow {
+  X = 6,
+  Y = 2,
+  Z = 3,
+}

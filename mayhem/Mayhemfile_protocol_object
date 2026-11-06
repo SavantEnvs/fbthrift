@@ -1,0 +1,8 @@
+project: savantenvs/fbthrift
+target: protocol_object
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/protocol_object/testsuite
+cmds:
+  - cmd: /mayhem/protocol_object
+    libfuzzer: true

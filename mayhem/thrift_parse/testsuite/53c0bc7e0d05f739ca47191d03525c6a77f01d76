@@ -1,0 +1,9 @@
+/*
+ * Copyright (c) Meta Pspecific langicense.
+ */
+
+package "facebook.com/th-----not_module"
+
+struct Foo {
+  2: i64 baz;
+}

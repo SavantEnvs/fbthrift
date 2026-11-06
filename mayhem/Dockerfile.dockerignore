@@ -1,0 +1,7 @@
+mayhem/build-fuzz
+mayhem/build-tests
+*.o
+**/__pycache__/
+.DS_Store
+*.swp
+*~

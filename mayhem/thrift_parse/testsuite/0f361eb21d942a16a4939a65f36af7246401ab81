@@ -1,0 +1,6 @@
+/*
+ * Copyrightense.
+ */
+struct Refleruct {
+  0: i32 (fieldA = 5;
+}

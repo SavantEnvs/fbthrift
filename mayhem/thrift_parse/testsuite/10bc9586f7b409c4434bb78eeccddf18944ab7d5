@@ -1,0 +1,7 @@
+/*
+opyr License.
+ */
+
+namespace java.swift test.fixtucpp.ref_
+
+const map<i32, list<string>> TEST ["baz"]};

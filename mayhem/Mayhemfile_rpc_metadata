@@ -1,0 +1,8 @@
+project: savantenvs/fbthrift
+target: rpc_metadata
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/rpc_metadata/testsuite
+cmds:
+  - cmd: /mayhem/rpc_metadata
+    libfuzzer: true

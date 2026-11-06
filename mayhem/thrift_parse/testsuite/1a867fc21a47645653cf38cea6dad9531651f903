@@ -1,0 +1,9 @@
+/*
+ inse.
+ */
+
+include "thrft.thrift"
+
+@thN6ap			annotation/thrif_servi B = 1,
+  C = 24
+}J

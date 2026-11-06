@@ -1,0 +1,8 @@
+//thrift.thrift"
+
+@thrift.Allo
+@thrift.AllowLegacyMissingUris
+package;
+
+struct Foi;
+}

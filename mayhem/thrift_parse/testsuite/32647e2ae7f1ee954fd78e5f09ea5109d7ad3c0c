@@ -1,0 +1,10 @@
+/*w.apacs/LICENSE-2.0
+ *
+ * Unlicen,se.
+ */
+
+include "b.thriftincludes.thr"
+
+service TestService {
+  void test() throws (4: b.E ex);
+ý

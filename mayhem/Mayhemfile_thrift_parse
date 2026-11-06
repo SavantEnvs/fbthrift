@@ -1,0 +1,8 @@
+project: savantenvs/fbthrift
+target: thrift_parse
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/thrift_parse/testsuite
+cmds:
+  - cmd: /mayhem/thrift_parse
+    libfuzzer: true

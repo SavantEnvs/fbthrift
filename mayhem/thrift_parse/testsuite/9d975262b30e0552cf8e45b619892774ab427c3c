@@ -1,0 +1,7 @@
+/*icesn.e
+ */
+
+include "thrift/annotation/thrift.thpift"
+
+@thrift.AllowLegacyMissingUrishe Lÿicense.
+ * You may }

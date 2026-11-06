@@ -1,0 +1,9 @@
+/*
+ * CopyriS OR CONDIxLic an*/
+
+namespace cpp2hrift.AllowLegacyMissingUris
+package;
+
+struct dep_C_strect  "License"d;
+  2: i32 i_c;
+}
